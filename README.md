@@ -181,6 +181,7 @@ OSWE, OSEP, OSED
 - https://connormcgarr.github.io/browser1/
 - https://kalitut.com/exploit-development-resources/
 - https://github.com/0xZ0F/Z0FCourse_ExploitDevelopment
+- https://github.com/dest-3/OSED_Resources/
 
 ### Reviews
 
