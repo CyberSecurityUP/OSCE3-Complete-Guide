@@ -182,6 +182,13 @@ OSWE, OSEP, OSED
 - https://kalitut.com/exploit-development-resources/
 - https://github.com/0xZ0F/Z0FCourse_ExploitDevelopment
 - https://github.com/dest-3/OSED_Resources/
+- https://resources.infosecinstitute.com/topic/python-for-exploit-development-common-vulnerabilities-and-exploits/
+- https://www.anitian.com/a-study-in-exploit-development-part-1-setup-and-proof-of-concept/
+- https://samsclass.info/127/127_WWC_2014.shtml
+- https://stackoverflow.com/questions/42615124/exploit-development-in-python-3
+- https://cd6629.gitbook.io/ctfwriteups/converting-metasploit-modules-to-python
+- https://subscription.packtpub.com/book/networking_and_servers/9781785282324/8
+- https://www.cybrary.it/video/exploit-development-part-5/
 
 ### Reviews
 
@@ -192,6 +199,7 @@ OSWE, OSEP, OSED
 - https://animal0day.blogspot.com/2018/11/reviews-for-oscp-osce-osee-and-corelan.html
 - https://addaxsoft.com/blog/offensive-security-advanced-windows-exploitation-awe-osee-review/
 - https://jhalon.github.io/OSCE-Review/
+- https://www.youtube.com/watch?v=NAe6f1_XG6Q
 
 ### Labs
 
