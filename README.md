@@ -189,6 +189,7 @@ OSWE, OSEP, OSED
 - https://cd6629.gitbook.io/ctfwriteups/converting-metasploit-modules-to-python
 - https://subscription.packtpub.com/book/networking_and_servers/9781785282324/8
 - https://www.cybrary.it/video/exploit-development-part-5/
+- https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-and
 
 ### Reviews
 
