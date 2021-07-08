@@ -123,7 +123,13 @@ OSWE, OSEP, OSED
 - https://www.youtube.com/watch?v=iUPyiJbN4l4&t=1s
 - https://www.youtube.com/watch?v=15sv5eZ0oCM
 - https://www.youtube.com/watch?v=0n3Li63PwnQ
-- https://www.youtube.com/watch?v=BWNzB1wIEQc
+- https://www.youtube.com/watch?v=BWNzB1wIEQ
+- https://spaceraccoon.dev/offensive-security-experienced-penetration-tester-osep-review-and-exam
+- https://casvancooten.com/posts/2021/03/getting-the-osep-certification-evasion-techniques-and-breaching-defenses-pen-300-course-review/
+- https://www.bordergate.co.uk/offensive-security-experienced-penetration-tester-osep-review/
+- https://makosecblog.com/miscellaneous/osep-course-review/
+- https://davidlebr1.gitbook.io/infosec/blog/osep-review
+- https://www.offensive-security.com/offsec/pen300-approach-review/
 
 ### Labs
 
@@ -189,7 +195,13 @@ OSWE, OSEP, OSED
 - https://cd6629.gitbook.io/ctfwriteups/converting-metasploit-modules-to-python
 - https://subscription.packtpub.com/book/networking_and_servers/9781785282324/8
 - https://www.cybrary.it/video/exploit-development-part-5/
-- https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-and
+- https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-an
+- https://help.offensive-security.com/hc/en-us/articles/360052977212-OSED-Exam-Guide
+- https://github.com/epi052/osed-scripts
+- https://www.youtube.com/watch?v=0n3Li63PwnQ
+- https://epi052.gitlab.io/notes-to-self/blog/2021-06-16-windows-usermode-exploit-development-review/
+- https://pythonrepo.com/repo/epi052-osed-scripts
+
 
 ### Reviews
 
