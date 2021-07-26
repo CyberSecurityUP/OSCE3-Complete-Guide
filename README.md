@@ -39,6 +39,7 @@ OSWE, OSEP, OSED
 - https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/
 - https://rayhan0x01.github.io/web/2021/04/12/awae-web-300-oswe-guide-2021.html
 - https://drive.google.com/file/d/1bASc-SLmuD0tXmd88h0QclRSpUu_rvnF/view?usp=sharing
+- https://github.com/Lawlez/myOSWE
 
 ### Reviews
 
@@ -62,6 +63,9 @@ OSWE, OSEP, OSED
 - https://nethemba.com/why-i-no-longer-endorse-offensive-security/
 - https://www.youtube.com/watch?v=w4jdrs_rfuk
 - https://securityforeveryone.com/blog/web-300-course-and-oswe-review
+- https://www.youtube.com/watch?v=ElZ7fFE9Gr4
+- https://www.youtube.com/watch?v=wDev3q8lADE
+- https://niebardzo.github.io/2021-01-12-oswe-review/
 
 ### Labs 
 
@@ -201,6 +205,8 @@ OSWE, OSEP, OSED
 - https://www.youtube.com/watch?v=0n3Li63PwnQ
 - https://epi052.gitlab.io/notes-to-self/blog/2021-06-16-windows-usermode-exploit-development-review/
 - https://pythonrepo.com/repo/epi052-osed-scripts
+- https://github.com/dhn/OSEE
+- https://pythonrepo.com/repo/epi052-osed-scripts
 
 
 ### Reviews
@@ -213,6 +219,7 @@ OSWE, OSEP, OSED
 - https://addaxsoft.com/blog/offensive-security-advanced-windows-exploitation-awe-osee-review/
 - https://jhalon.github.io/OSCE-Review/
 - https://www.youtube.com/watch?v=NAe6f1_XG6Q
+- https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-and
 
 ### Labs
 
