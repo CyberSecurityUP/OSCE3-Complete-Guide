@@ -66,6 +66,7 @@ OSWE, OSEP, OSED
 - https://www.youtube.com/watch?v=ElZ7fFE9Gr4
 - https://www.youtube.com/watch?v=wDev3q8lADE
 - https://niebardzo.github.io/2021-01-12-oswe-review/
+- https://github.com/svdwi/OSWE-Labs-Poc
 
 ### Labs 
 
