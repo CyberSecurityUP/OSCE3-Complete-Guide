@@ -67,6 +67,7 @@ OSWE, OSEP, OSED
 - https://www.youtube.com/watch?v=wDev3q8lADE
 - https://niebardzo.github.io/2021-01-12-oswe-review/
 - https://github.com/svdwi/OSWE-Labs-Poc
+- https://werebug.com/journal/oswe/osep/2021/08/05/oswe-and-osep-obtained-what-next.html
 
 ### Labs 
 
@@ -117,6 +118,8 @@ OSWE, OSEP, OSED
 ### Reviews
 
 - https://nullg0re.com/?p=113
+- https://spaceraccoon.dev/offensive-security-experienced-penetration-tester-osep-review-and-exam
+- https://www.youtube.com/watch?v=fA3pkNcGpH0&ab_channel=HackSouth
 - https://www.schellman.com/blog/osep-and-pen-300-course-review
 - https://cinzinga.com/OSEP-PEN-300-Review/
 - https://www.youtube.com/watch?v=iUPyiJbN4l4
