@@ -180,6 +180,14 @@ OSWE, OSEP, OSED
 - https://spaceraccoon.dev/offensive-security-experienced-penetration-tester-osep-review-and-exam
 - https://www.exploit-db.com/evasion-techniques-breaching-defenses
 - https://noraj.github.io/OSCP-Exam-Report-Template-Markdown/
+- https://help.offensive-security.com/hc/en-us/articles/360049781352-OSEP-Exam-FAQ
+- https://www.cybereagle.io/blog/osep-review/
+- https://pentestlab.blog/category/red-team/defense-evasion/
+- https://pentestlab.blog/tag/antivirus-evasion/
+- https://pentestlaboratories.com/2021/01/18/process-herpaderping-windows-defender-evasion/
+- https://www.youtube.com/watch?v=dS0GcSA7kEw&ab_channel=PentesterAcademyTV
+- https://www.youtube.com/watch?v=cqxOS9uQL_c&ab_channel=PacktVideo
+- https://www.youtube.com/watch?v=ZaJpDeLvo6I&ab_channel=PentesterAcademyTV
 
 ## OSED
 
@@ -260,6 +268,7 @@ OSWE, OSEP, OSED
 - https://jhalon.github.io/OSCE-Review/
 - https://www.youtube.com/watch?v=NAe6f1_XG6Q
 - https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-and
+- https://blog.kuhi.to/offsec-exp301-osed-review
 
 ### Labs
 
@@ -270,6 +279,12 @@ OSWE, OSEP, OSED
 - https://github.com/wadejason/Buffer-Overflow-Vulnerability-Lab
 - https://github.com/Jeffery-Liu/Buffer-Overflow-Vulnerability-Lab
 - https://github.com/mutianxu/SEED-LAB-Bufferoverflow_attack
+- https://my.ine.com/CyberSecurity/courses/54819bbb/windows-exploit-development
+- https://connormcgarr.github.io/browser1/
+- https://www.coalfire.com/the-coalfire-blog/january-2020/the-basics-of-exploit-development-1
+- https://pentestmag.com/product/exploit-development-windows-w38/
+- https://steflan-security.com/complete-guide-to-stack-buffer-overflow-oscp/#:~:text=Stack%20buffer%20overflow%20is%20a,of%20the%20intended%20data%20structure.
+- https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/
 
 ## My Social Network
 
