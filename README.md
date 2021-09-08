@@ -28,17 +28,17 @@
 - OS Command Injection via WebSockets (BlackBox)
 
 ### Study Materials
--->[timip-GitHub](https://github.com/timip/OSWE)- Reference guide
--->[noraj-GitHub](https://github.com/noraj/AWAE-OSWE) - Reference guide
--->[wetw0rk-Github](https://github.com/wetw0rk/AWAE-PREP) - Reference guide
--->[kajalNair-Github](https://github.com/kajalNair/OSWE-Prep) - Reference guide
--->[s0j0hn-Github](https://github.com/s0j0hn/AWAE-OSWE-Prep) - Reference guide
--->[deletehead-Github](https://github.com/deletehead/awae_oswe_prep) - Reference guide
--->[z-r0crypt](https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/) - Reference guide
--->[rayhan0x01](https://rayhan0x01.github.io/web/2021/04/12/awae-web-300-oswe-guide-2021.html) - Reference guide
--->[Nathan-Rague](https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide) - Reference guide
--->[Joas Content](https://drive.google.com/file/d/1bASc-SLmuD0tXmd88h0QclRSpUu_rvnF/view?usp=sharing) - Reference guide
--->[Lawlez-Github](https://github.com/Lawlez/myOSWE) - Reference guide 
+1. [timip-GitHub](https://github.com/timip/OSWE)- Reference guide
+2. [noraj-GitHub](https://github.com/noraj/AWAE-OSWE) - Reference guide
+3. [wetw0rk-Github](https://github.com/wetw0rk/AWAE-PREP) - Reference guide
+4. [kajalNair-Github](https://github.com/kajalNair/OSWE-Prep) - Reference guide
+5. [s0j0hn-Github](https://github.com/s0j0hn/AWAE-OSWE-Prep) - Reference guide
+6. [deletehead-Github](https://github.com/deletehead/awae_oswe_prep) - Reference guide
+7. [z-r0crypt](https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/) - Reference guide
+8. [rayhan0x01](https://rayhan0x01.github.io/web/2021/04/12/awae-web-300-oswe-guide-2021.html) - Reference guide
+9. [Nathan-Rague](https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide) - Reference guide
+10. [Joas Content](https://drive.google.com/file/d/1bASc-SLmuD0tXmd88h0QclRSpUu_rvnF/view?usp=sharing) - Reference guide
+11. [Lawlez-Github](https://github.com/Lawlez/myOSWE) - Reference guide 
 
 ### Vulnerabilities (https://github.com/AzyzChayeb)
 
