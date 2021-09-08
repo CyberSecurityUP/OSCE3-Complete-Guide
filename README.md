@@ -75,8 +75,6 @@
 31. [Dumping Database using Outfile](https://www.hackingarticles.in/dumping-database-using-outfile/)
 32. [IDOR](https://www.hackingarticles.in/beginner-guide-insecure-direct-object-references/)
 
->>>>>>> 313248f71c32f1307db4984441bdee3f9ab4a264
-
 ### Reviews
 
 - https://www.helviojunior.com.br/it/oswe-uma-historia-de-insucessos/
