@@ -28,17 +28,67 @@
 - OS Command Injection via WebSockets (BlackBox)
 
 ### Study Materials
-- [timip-GitHub] (https://github.com/timip/OSWE) - Reference guide
-- [noraj-GitHub] (https://github.com/noraj/AWAE-OSWE) - Reference guide
-- [wetw0rk-Github] (https://github.com/wetw0rk/AWAE-PREP) - Reference guide
-- [kajalNair-Github]https://github.com/kajalNair/OSWE-Prep - Reference guide
-- [s0j0hn-Github] (https://github.com/s0j0hn/AWAE-OSWE-Prep) - Reference guide
-- [deletehead-Github] (https://github.com/deletehead/awae_oswe_prep) - Reference guide
-- [z-r0crypt] (https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/) - Reference guide
-- [rayhan0x01] (https://rayhan0x01.github.io/web/2021/04/12/awae-web-300-oswe-guide-2021.html) - Reference guide
-- [Nathan-Rague] (https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide) - Reference guide
-- [Joas] (https://drive.google.com/file/d/1bASc-SLmuD0tXmd88h0QclRSpUu_rvnF/view?usp=sharing) - Reference guide
+<<<<<<< HEAD
+- [timip-GitHub](https://github.com/timip/OSWE) - Reference guide
+- [noraj-GitHub](https://github.com/noraj/AWAE-OSWE) - Reference guide
+- [wetw0rk-Github](https://github.com/wetw0rk/AWAE-PREP) - Reference guide
+- [kajalNair-Github](https://github.com/kajalNair/OSWE-Prep) - Reference guide
+- [s0j0hn-Github](https://github.com/s0j0hn/AWAE-OSWE-Prep) - Reference guide
+- [deletehead-Github](https://github.com/deletehead/awae_oswe_prep) - Reference guide
+- [z-r0crypt](https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/) - Reference guide
+- [rayhan0x01](https://rayhan0x01.github.io/web/2021/04/12/awae-web-300-oswe-guide-2021.html) - Reference guide
+- [Nathan-Rague](https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide) - Reference guide
+- [Joas](https://drive.google.com/file/d/1bASc-SLmuD0tXmd88h0QclRSpUu_rvnF/view?usp=sharing) - Reference guide
 - [Lawlez-Github] (https://github.com/Lawlez/myOSWE) - Reference guide 
+=======
+
+- https://github.com/timip/OSWE
+- https://github.com/noraj/AWAE-OSWE
+- https://github.com/wetw0rk/AWAE-PREP
+- https://github.com/kajalNair/OSWE-Prep
+- https://github.com/s0j0hn/AWAE-OSWE-Prep
+- https://github.com/deletehead/awae_oswe_prep
+- https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/
+- https://rayhan0x01.github.io/web/2021/04/12/awae-web-300-oswe-guide-2021.html
+- https://drive.google.com/file/d/1bASc-SLmuD0tXmd88h0QclRSpUu_rvnF/view?usp=sharing
+- https://github.com/Lawlez/myOSWE
+-
+### Vulnerabilities (https://github.com/AzyzChayeb)
+
+1. [XXE Injection](https://www.hackingarticles.in/comprehensive-guide-on-xxe-injection/)
+2. [CSRF](https://www.hackingarticles.in/understanding-the-csrf-vulnerability-a-beginners-guide/)
+3. [Cross-Site Scripting Exploitation](https://www.hackingarticles.in/cross-site-scripting-exploitation/)
+4. [Cross-Site Scripting (XSS)](https://www.hackingarticles.in/comprehensive-guide-on-cross-site-scripting-xss/)
+5. [Unrestricted File Upload](https://www.hackingarticles.in/comprehensive-guide-on-unrestricted-file-upload/)
+6. [Open Redirect](https://www.hackingarticles.in/comprehensive-guide-on-open-redirect/)
+7. [Remote File Inclusion (RFI)](https://www.hackingarticles.in/comprehensive-guide-to-remote-file-inclusion-rfi/)
+8. [HTML Injection](https://www.hackingarticles.in/comprehensive-guide-on-html-injection/)
+9. [Path Traversal](https://www.hackingarticles.in/comprehensive-guide-on-path-traversal/)
+10. [Broken Authentication & Session Management](https://www.hackingarticles.in/comprehensive-guide-on-broken-authentication-session-management/)
+11. [OS Command Injection](https://www.hackingarticles.in/comprehensive-guide-on-os-command-injection/)
+12. [Multiple Ways to Banner Grabbing](https://www.hackingarticles.in/multiple-ways-to-banner-grabbing/)
+13. [Local File Inclusion (LFI)](https://www.hackingarticles.in/comprehensive-guide-to-local-file-inclusion/)
+14. [Netcat for Pentester](https://www.hackingarticles.in/netcat-for-pentester/)
+15. [WPScan:WordPress Pentesting Framework](https://www.hackingarticles.in/wpscanwordpress-pentesting-framework/)
+16. [WordPress Pentest Lab Setup in Multiple Ways](https://www.hackingarticles.in/wordpress-pentest-lab-setup-in-multiple-ways/)
+17. [Multiple Ways to Crack WordPress login](https://www.hackingarticles.in/multiple-ways-to-crack-wordpress-login/)
+18. [Web Application Pentest Lab Setup on AWS](https://www.hackingarticles.in/web-application-pentest-lab-setup-on-aws/)
+19. [Web Application Lab Setup on Windows](https://www.hackingarticles.in/web-application-lab-setup-on-windows/)
+20. [Web Application Pentest Lab setup Using Docker](https://www.hackingarticles.in/web-application-pentest-lab-setup-using-docker/)
+21. [Web Shells Penetration Testing](https://www.hackingarticles.in/web-shells-penetration-testing/)
+22. [SMTP Log Poisoning](https://www.hackingarticles.in/smtp-log-poisioning-through-lfi-to-remote-code-exceution/)
+23. [HTTP Authentication](https://www.hackingarticles.in/multiple-ways-to-exploiting-http-authentication/)
+24. [Understanding the HTTP Protocol](https://www.hackingarticles.in/understanding-http-protocol/)
+25. [Broken Authentication & Session Management](https://www.hackingarticles.in/comprehensive-guide-on-broken-authentication-session-management/)
+26. [Apache Log Poisoning through LFI](https://www.hackingarticles.in/apache-log-poisoning-through-lfi/)
+27. [Beginner’s Guide to SQL Injection (Part 1)](https://www.hackingarticles.in/beginner-guide-sql-injection-part-1/)
+28. [Boolean Based](https://www.hackingarticles.in/beginner-guide-sql-injection-boolean-based-part-2/)
+29. [How to Bypass SQL Injection Filter](https://www.hackingarticles.in/bypass-filter-sql-injection-manually/)
+30. [Form Based SQL Injection](https://www.hackingarticles.in/form-based-sql-injection-manually/)
+31. [Dumping Database using Outfile](https://www.hackingarticles.in/dumping-database-using-outfile/)
+32. [IDOR](https://www.hackingarticles.in/beginner-guide-insecure-direct-object-references/)
+
+>>>>>>> 313248f71c32f1307db4984441bdee3f9ab4a264
 
 ### Reviews
 
@@ -143,6 +193,14 @@
 - https://spaceraccoon.dev/offensive-security-experienced-penetration-tester-osep-review-and-exam
 - https://www.exploit-db.com/evasion-techniques-breaching-defenses
 - https://noraj.github.io/OSCP-Exam-Report-Template-Markdown/
+- https://help.offensive-security.com/hc/en-us/articles/360049781352-OSEP-Exam-FAQ
+- https://www.cybereagle.io/blog/osep-review/
+- https://pentestlab.blog/category/red-team/defense-evasion/
+- https://pentestlab.blog/tag/antivirus-evasion/
+- https://pentestlaboratories.com/2021/01/18/process-herpaderping-windows-defender-evasion/
+- https://www.youtube.com/watch?v=dS0GcSA7kEw&ab_channel=PentesterAcademyTV
+- https://www.youtube.com/watch?v=cqxOS9uQL_c&ab_channel=PacktVideo
+- https://www.youtube.com/watch?v=ZaJpDeLvo6I&ab_channel=PentesterAcademyTV
 
 ## OSED
 
@@ -223,6 +281,7 @@
 - https://jhalon.github.io/OSCE-Review/
 - https://www.youtube.com/watch?v=NAe6f1_XG6Q
 - https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-and
+- https://blog.kuhi.to/offsec-exp301-osed-review
 
 ### Labs
 
@@ -233,6 +292,12 @@
 - https://github.com/wadejason/Buffer-Overflow-Vulnerability-Lab
 - https://github.com/Jeffery-Liu/Buffer-Overflow-Vulnerability-Lab
 - https://github.com/mutianxu/SEED-LAB-Bufferoverflow_attack
+- https://my.ine.com/CyberSecurity/courses/54819bbb/windows-exploit-development
+- https://connormcgarr.github.io/browser1/
+- https://www.coalfire.com/the-coalfire-blog/january-2020/the-basics-of-exploit-development-1
+- https://pentestmag.com/product/exploit-development-windows-w38/
+- https://steflan-security.com/complete-guide-to-stack-buffer-overflow-oscp/#:~:text=Stack%20buffer%20overflow%20is%20a,of%20the%20intended%20data%20structure.
+- https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/
 
 ## My Social Network
 
