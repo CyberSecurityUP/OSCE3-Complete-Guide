@@ -1,5 +1,4 @@
-# OSCE³ Study Guide by Joas
-OSWE, OSEP, OSED
+# OSCE³ Study Guide [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## OSWE
 
@@ -29,18 +28,18 @@ OSWE, OSEP, OSED
 - OS Command Injection via WebSockets (BlackBox)
 
 ### Study Materials
+1. [timip-GitHub](https://github.com/timip/OSWE)- Reference guide
+2. [noraj-GitHub](https://github.com/noraj/AWAE-OSWE) - Reference guide
+3. [wetw0rk-Github](https://github.com/wetw0rk/AWAE-PREP) - Reference guide
+4. [kajalNair-Github](https://github.com/kajalNair/OSWE-Prep) - Reference guide
+5. [s0j0hn-Github](https://github.com/s0j0hn/AWAE-OSWE-Prep) - Reference guide
+6. [deletehead-Github](https://github.com/deletehead/awae_oswe_prep) - Reference guide
+7. [z-r0crypt](https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/) - Reference guide
+8. [rayhan0x01](https://rayhan0x01.github.io/web/2021/04/12/awae-web-300-oswe-guide-2021.html) - Reference guide
+9. [Nathan-Rague](https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide) - Reference guide
+10. [Joas Content](https://drive.google.com/file/d/1bASc-SLmuD0tXmd88h0QclRSpUu_rvnF/view?usp=sharing) - Reference guide
+11. [Lawlez-Github](https://github.com/Lawlez/myOSWE) - Reference guide 
 
-- https://github.com/timip/OSWE
-- https://github.com/noraj/AWAE-OSWE
-- https://github.com/wetw0rk/AWAE-PREP
-- https://github.com/kajalNair/OSWE-Prep
-- https://github.com/s0j0hn/AWAE-OSWE-Prep
-- https://github.com/deletehead/awae_oswe_prep
-- https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/
-- https://rayhan0x01.github.io/web/2021/04/12/awae-web-300-oswe-guide-2021.html
-- https://drive.google.com/file/d/1bASc-SLmuD0tXmd88h0QclRSpUu_rvnF/view?usp=sharing
-- https://github.com/Lawlez/myOSWE
--
 ### Vulnerabilities (https://github.com/AzyzChayeb)
 
 1. [XXE Injection](https://www.hackingarticles.in/comprehensive-guide-on-xxe-injection/)
@@ -75,7 +74,6 @@ OSWE, OSEP, OSED
 30. [Form Based SQL Injection](https://www.hackingarticles.in/form-based-sql-injection-manually/)
 31. [Dumping Database using Outfile](https://www.hackingarticles.in/dumping-database-using-outfile/)
 32. [IDOR](https://www.hackingarticles.in/beginner-guide-insecure-direct-object-references/)
-
 
 ### Reviews
 
