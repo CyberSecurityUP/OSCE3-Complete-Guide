@@ -28,31 +28,18 @@
 - OS Command Injection via WebSockets (BlackBox)
 
 ### Study Materials
-<<<<<<< HEAD
-- [timip-GitHub](https://github.com/timip/OSWE) - Reference guide
-- [noraj-GitHub](https://github.com/noraj/AWAE-OSWE) - Reference guide
-- [wetw0rk-Github](https://github.com/wetw0rk/AWAE-PREP) - Reference guide
-- [kajalNair-Github](https://github.com/kajalNair/OSWE-Prep) - Reference guide
-- [s0j0hn-Github](https://github.com/s0j0hn/AWAE-OSWE-Prep) - Reference guide
-- [deletehead-Github](https://github.com/deletehead/awae_oswe_prep) - Reference guide
-- [z-r0crypt](https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/) - Reference guide
-- [rayhan0x01](https://rayhan0x01.github.io/web/2021/04/12/awae-web-300-oswe-guide-2021.html) - Reference guide
-- [Nathan-Rague](https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide) - Reference guide
-- [Joas](https://drive.google.com/file/d/1bASc-SLmuD0tXmd88h0QclRSpUu_rvnF/view?usp=sharing) - Reference guide
-- [Lawlez-Github] (https://github.com/Lawlez/myOSWE) - Reference guide 
-=======
+-->[timip-GitHub](https://github.com/timip/OSWE)- Reference guide
+-->[noraj-GitHub](https://github.com/noraj/AWAE-OSWE) - Reference guide
+-->[wetw0rk-Github](https://github.com/wetw0rk/AWAE-PREP) - Reference guide
+-->[kajalNair-Github](https://github.com/kajalNair/OSWE-Prep) - Reference guide
+-->[s0j0hn-Github](https://github.com/s0j0hn/AWAE-OSWE-Prep) - Reference guide
+-->[deletehead-Github](https://github.com/deletehead/awae_oswe_prep) - Reference guide
+-->[z-r0crypt](https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/) - Reference guide
+-->[rayhan0x01](https://rayhan0x01.github.io/web/2021/04/12/awae-web-300-oswe-guide-2021.html) - Reference guide
+-->[Nathan-Rague](https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide) - Reference guide
+-->[Joas Content](https://drive.google.com/file/d/1bASc-SLmuD0tXmd88h0QclRSpUu_rvnF/view?usp=sharing) - Reference guide
+-->[Lawlez-Github](https://github.com/Lawlez/myOSWE) - Reference guide 
 
-- https://github.com/timip/OSWE
-- https://github.com/noraj/AWAE-OSWE
-- https://github.com/wetw0rk/AWAE-PREP
-- https://github.com/kajalNair/OSWE-Prep
-- https://github.com/s0j0hn/AWAE-OSWE-Prep
-- https://github.com/deletehead/awae_oswe_prep
-- https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/
-- https://rayhan0x01.github.io/web/2021/04/12/awae-web-300-oswe-guide-2021.html
-- https://drive.google.com/file/d/1bASc-SLmuD0tXmd88h0QclRSpUu_rvnF/view?usp=sharing
-- https://github.com/Lawlez/myOSWE
--
 ### Vulnerabilities (https://github.com/AzyzChayeb)
 
 1. [XXE Injection](https://www.hackingarticles.in/comprehensive-guide-on-xxe-injection/)
