@@ -277,11 +277,11 @@
 
 ## Our Social Network
 
-### [Joas Antonio](https://www.linkedin.com/in/joas-antonio-dos-santos)
-### [CyberSceurityUP](https://github.com/CyberSecurityUP)
+### [Joas Antonio - Linkedin](https://www.linkedin.com/in/joas-antonio-dos-santos)
+### [CyberSceurityUP- GitHub](https://github.com/CyberSecurityUP)
 ### [C0d3Cr4zy - Twitter](https://twitter.com/C0d3Cr4zy)
 
-### [Filipi Pires](https://www.linkedin.com/in/filipipires/)
+### [Filipi Pires - Linkedin](https://www.linkedin.com/in/filipipires/)
 ### [Filipi Pires - GitHub](https://github.com/filipi86)
 ### [Filipi Pires - Twitter](https://twitter.com/FilipiPires)
 
