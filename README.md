@@ -275,12 +275,14 @@
 - https://steflan-security.com/complete-guide-to-stack-buffer-overflow-oscp/#:~:text=Stack%20buffer%20overflow%20is%20a,of%20the%20intended%20data%20structure.
 - https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/
 
-## My Social Network
+## Our Social Network
 
-### https://www.linkedin.com/in/joas-antonio-dos-santos
+### [Joas Antonio](https://www.linkedin.com/in/joas-antonio-dos-santos)
+### [CyberSceurityUP](https://github.com/CyberSecurityUP)
+### [C0d3Cr4zy - Twitter](https://twitter.com/C0d3Cr4zy)
 
-### https://github.com/CyberSecurityUP
-
-### https://twitter.com/C0d3Cr4zy
+### [Filipi Pires](https://www.linkedin.com/in/filipipires/)
+### [Filipi Pires - GitHub](https://github.com/filipi86)
+### [Filipi Pires - Twitter](https://twitter.com/FilipiPires)
 
 *XMind - Evaluation Version*
