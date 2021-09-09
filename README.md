@@ -104,7 +104,7 @@
 2. [HTB Machine](https://www.youtube.com/watch?v=NMGsnPSm8iw&list=PLidcsTyj9JXKTnpphkJ310PVVGF-GuZA0)
 3. [Deserialization](https://www.youtube.com/watch?v=t-zVC-CxYjw&list=PLL5n_4gj5JCw1aRrlVbdMCAugNz-ia3Wh)
 7. [B1twis3](https://medium.com/@fasthm00/the-state-of-oswe-c68150210fe4)
-9. [jangelesg GitHug](https://github.com/jangelesg/AWAE-OSWE)
+9. [jangelesg GitHub](https://github.com/jangelesg/AWAE-OSWE)
 
 ## OSEP
 
