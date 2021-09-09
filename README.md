@@ -59,7 +59,7 @@
 15. [WPScan:WordPress Pentesting Framework](https://www.hackingarticles.in/wpscanwordpress-pentesting-framework/)
 16. [WordPress Pentest Lab Setup in Multiple Ways](https://www.hackingarticles.in/wordpress-pentest-lab-setup-in-multiple-ways/)
 17. [Multiple Ways to Crack WordPress login](https://www.hackingarticles.in/multiple-ways-to-crack-wordpress-login/)
-18. [Web Application Pentest Lab Setup on AWS](https://www.hackingarticles.in/web-application-pentest-lab-setup-on-aws/)
+18. [Web Application Pentest Lab Setup on AWS](https://www.hackingarticles.in/web-application-pentest-lab-setup-on-aws)
 19. [Web Application Lab Setup on Windows](https://www.hackingarticles.in/web-application-lab-setup-on-windows/)
 20. [Web Application Pentest Lab setup Using Docker](https://www.hackingarticles.in/web-application-pentest-lab-setup-using-docker/)
 21. [Web Shells Penetration Testing](https://www.hackingarticles.in/web-shells-penetration-testing/)
@@ -77,43 +77,34 @@
 
 ### Reviews
 
-- https://www.helviojunior.com.br/it/oswe-uma-historia-de-insucessos/
-- https://0xklaue.medium.com/attacking-the-web-the-offensive-security-way-b38bea609318
-- https://medium.com/greenwolf-security/an-awae-oswe-review-2020-update-6d6ec7a80c1f
-- https://securitygrind.com/the-oswe-in-review/
-- https://forum.hackthebox.eu/discussion/2646/oswe-exam-review-2020-notes-gifts-inside
-- https://infosecwriteups.com/awae-oswe-review-from-a-non-developer-perspective-2c2842cfbd4d
-- https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide
-- https://www.linkedin.com/pulse/awaeoswe-2020-expected-review-elias-dimopoulos/
-- https://www.youtube.com/watch?v=ElZ7fFE9Gr4
-- https://alex-labs.com/my-awae-review-becoming-an-oswe/
-- https://niebardzo.github.io/2021-01-12-oswe-review/
-- https://stacktrac3.co/oswe-review-awae-course/
-- https://blog.kuhi.to/offsec-awae-oswe-review
-- https://donavan.sg/blog/index.php/2020/03/14/the-awae-oswe-journey-a-review/
-- https://kojenov.com/2020-04-08-oswe-review/
-- https://www.reddit.com/r/OSWE/comments/bsods2/i_just_passed_the_oswe_exam_amaa_about_the_exam/
-- https://mystiko.sh/?p=555
-- https://nethemba.com/why-i-no-longer-endorse-offensive-security/
-- https://www.youtube.com/watch?v=w4jdrs_rfuk
-- https://securityforeveryone.com/blog/web-300-course-and-oswe-review
-- https://www.youtube.com/watch?v=ElZ7fFE9Gr4
-- https://www.youtube.com/watch?v=wDev3q8lADE
-- https://niebardzo.github.io/2021-01-12-oswe-review/
-- https://github.com/svdwi/OSWE-Labs-Poc
-- https://werebug.com/journal/oswe/osep/2021/08/05/oswe-and-osep-obtained-what-next.html
+1. [OSWE Review](https://www.helviojunior.com.br/it/oswe-uma-historia-de-insucessos/) - Portuguese Content
+2. [0xklaue](https://0xklaue.medium.com/attacking-the-web-the-offensive-security-way-b38bea609318)
+3. [greenwolf security](https://medium.com/greenwolf-security/an-awae-oswe-review-2020-update-6d6ec7a80c1f)
+4. [Cristian R](https://securitygrind.com/the-oswe-in-review/)
+5. [21y4d](https://forum.hackthebox.eu/discussion/2646/oswe-exam-review-2020-notes-gifts-inside) - Exam Reviews
+6. [Marcin Szydlowski](https://infosecwriteups.com/awae-oswe-review-from-a-non-developer-perspective-2c2842cfbd4d)
+7. [Nathan Rague](https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide)
+8. [Elias Dimopoulos](https://www.linkedin.com/pulse/awaeoswe-2020-expected-review-elias-dimopoulos/)
+9. [OSWE Review - Tips & Tricks](https://www.youtube.com/watch?v=ElZ7fFE9Gr4) - OSWE Review - Tips & Tricks
+10. [Alex-labs](https://alex-labs.com/my-awae-review-becoming-an-oswe/)
+11. [niebardzo Github](https://niebardzo.github.io/2021-01-12-oswe-review/) - Exam Review
+12. [Marcus Aurelius](https://stacktrac3.co/oswe-review-awae-course/)
+13. [yakuhito](https://blog.kuhi.to/offsec-awae-oswe-review)
+14. [donavan.sg](https://donavan.sg/blog/index.php/2020/03/14/the-awae-oswe-journey-a-review/)
+15. [Alexei Kojenov](https://kojenov.com/2020-04-08-oswe-review/)
+16. [(OSWE)-Journey & Review](https://www.youtube.com/watch?v=wDev3q8lADE) - Offensive Security Web Expert (OSWE) - Journey & Review
+17. [Patryk Bogusz](https://niebardzo.github.io/2021-01-12-oswe-review/)
+18. [svdwi GitHub](https://github.com/svdwi/OSWE-Labs-Poc) - OSWE Labs POC
+19. [Werebug.com ](https://werebug.com/journal/oswe/osep/2021/08/05/oswe-and-osep-obtained-what-next.html) - OSWE and OSEP
+20. [jvesiluoma](https://www.vesiluoma.com/offensive-security-web-expert-oswe-advanced-web-attacks-and-exploitation/)
 
-### Labs 
+### Extra Content 
 
-- https://www.youtube.com/watch?v=F46tQww_IvE
-- https://www.youtube.com/watch?v=NMGsnPSm8iw&list=PLidcsTyj9JXKTnpphkJ310PVVGF-GuZA0
-- https://www.youtube.com/watch?v=S1YUmKGL33w
-- https://www.youtube.com/watch?v=t-zVC-CxYjw&list=PLL5n_4gj5JCw1aRrlVbdMCAugNz-ia3Wh
-- https://github.com/svdwi/OSWE-Labs
-- https://www.vesiluoma.com/offensive-security-web-expert-oswe-advanced-web-attacks-and-exploitation/
-- https://medium.com/@fasthm00/the-state-of-oswe-c68150210fe4
-- https://alex-labs.com/my-awae-review-becoming-an-oswe/
-- https://github.com/jangelesg/AWAE-OSWE
+1. [OSWE labs](https://www.youtube.com/watch?v=F46tQww_IvE) - OSWE labs and exam's review/guide
+2. [HTB Machine](https://www.youtube.com/watch?v=NMGsnPSm8iw&list=PLidcsTyj9JXKTnpphkJ310PVVGF-GuZA0)
+3. [Deserialization](https://www.youtube.com/watch?v=t-zVC-CxYjw&list=PLL5n_4gj5JCw1aRrlVbdMCAugNz-ia3Wh)
+7. [B1twis3](https://medium.com/@fasthm00/the-state-of-oswe-c68150210fe4)
+9. [jangelesg GitHub](https://github.com/jangelesg/AWAE-OSWE)
 
 ## OSEP
 
@@ -284,12 +275,14 @@
 - https://steflan-security.com/complete-guide-to-stack-buffer-overflow-oscp/#:~:text=Stack%20buffer%20overflow%20is%20a,of%20the%20intended%20data%20structure.
 - https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/
 
-## My Social Network
+## Our Social Network
 
-### https://www.linkedin.com/in/joas-antonio-dos-santos
+### [Joas Antonio - Linkedin](https://www.linkedin.com/in/joas-antonio-dos-santos)
+### [CyberSceurityUP- GitHub](https://github.com/CyberSecurityUP)
+### [C0d3Cr4zy - Twitter](https://twitter.com/C0d3Cr4zy)
 
-### https://github.com/CyberSecurityUP
-
-### https://twitter.com/C0d3Cr4zy
+### [Filipi Pires - Linkedin](https://www.linkedin.com/in/filipipires/)
+### [Filipi Pires - GitHub](https://github.com/filipi86)
+### [Filipi Pires - Twitter](https://twitter.com/FilipiPires)
 
 *XMind - Evaluation Version*
