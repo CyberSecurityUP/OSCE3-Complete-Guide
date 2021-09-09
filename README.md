@@ -81,7 +81,7 @@
 2. [0xklaue](https://0xklaue.medium.com/attacking-the-web-the-offensive-security-way-b38bea609318)
 3. [greenwolf security](https://medium.com/greenwolf-security/an-awae-oswe-review-2020-update-6d6ec7a80c1f)
 4. [Cristian R](https://securitygrind.com/the-oswe-in-review/)
-5. [21y4d] (https://forum.hackthebox.eu/discussion/2646/oswe-exam-review-2020-notes-gifts-inside) - Exam Reviews
+5. [21y4d](https://forum.hackthebox.eu/discussion/2646/oswe-exam-review-2020-notes-gifts-inside) - Exam Reviews
 6. [Marcin Szydlowski](https://infosecwriteups.com/awae-oswe-review-from-a-non-developer-perspective-2c2842cfbd4d)
 7. [Nathan Rague](https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide)
 8. [Elias Dimopoulos](https://www.linkedin.com/pulse/awaeoswe-2020-expected-review-elias-dimopoulos/)
@@ -100,7 +100,7 @@
 
 ### Extra Content 
 
-1. [OSWE labs](https://www.youtube.com/watch?v=F46tQww_IvE) - OSWE labs and exam's review/guide | September 2020
+1. [OSWE labs](https://www.youtube.com/watch?v=F46tQww_IvE) - OSWE labs and exam's review/guide
 2. [HTB Machine](https://www.youtube.com/watch?v=NMGsnPSm8iw&list=PLidcsTyj9JXKTnpphkJ310PVVGF-GuZA0)
 3. [Deserialization](https://www.youtube.com/watch?v=t-zVC-CxYjw&list=PLL5n_4gj5JCw1aRrlVbdMCAugNz-ia3Wh)
 7. [B1twis3](https://medium.com/@fasthm00/the-state-of-oswe-c68150210fe4)
