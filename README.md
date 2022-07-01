@@ -258,6 +258,8 @@
 - https://www.youtube.com/watch?v=NAe6f1_XG6Q
 - https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-and
 - https://blog.kuhi.to/offsec-exp301-osed-review
+- https://epi052.gitlab.io/notes-to-self/blog/2021-06-16-windows-usermode-exploit-development-review/
+- https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-and/
 
 ### Labs
 
@@ -274,6 +276,8 @@
 - https://pentestmag.com/product/exploit-development-windows-w38/
 - https://steflan-security.com/complete-guide-to-stack-buffer-overflow-oscp/#:~:text=Stack%20buffer%20overflow%20is%20a,of%20the%20intended%20data%20structure.
 - https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/
+- https://www.exploit-db.com/exploits/42928
+- https://www.exploit-db.com/exploits/10434
 
 ## Our Social Network
 
