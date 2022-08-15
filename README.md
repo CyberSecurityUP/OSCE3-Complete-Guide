@@ -163,6 +163,7 @@
 - https://makosecblog.com/miscellaneous/osep-course-review/
 - https://davidlebr1.gitbook.io/infosec/blog/osep-review
 - https://www.offensive-security.com/offsec/pen300-approach-review/
+- https://www.securityartwork.es/2021/07/02/osep-certificate-offensive-security-experienced-penetration-tester/
 
 ### Labs
 
