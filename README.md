@@ -280,6 +280,7 @@
 - https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/
 - https://www.exploit-db.com/exploits/42928
 - https://www.exploit-db.com/exploits/10434
+- https://ocw.cs.pub.ro/courses/cns/labs/lab-08
 
 ## Our Social Network
 
