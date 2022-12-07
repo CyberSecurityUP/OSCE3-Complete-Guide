@@ -245,6 +245,7 @@
 - https://pythonrepo.com/repo/epi052-osed-scripts
 - https://github.com/dhn/OSEE
 - https://pythonrepo.com/repo/epi052-osed-scripts
+- https://github.com/nop-tech/OSED
 
 
 ### Reviews
