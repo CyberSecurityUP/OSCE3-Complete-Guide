@@ -97,6 +97,11 @@
 18. [svdwi GitHub](https://github.com/svdwi/OSWE-Labs-Poc) - OSWE Labs POC
 19. [Werebug.com ](https://werebug.com/journal/oswe/osep/2021/08/05/oswe-and-osep-obtained-what-next.html) - OSWE and OSEP
 20. [jvesiluoma](https://www.vesiluoma.com/offensive-security-web-expert-oswe-advanced-web-attacks-and-exploitation/)
+21. [ApexPredator](https://github.com/ApexPredator-InfoSec/AWAE-OSWE)
+22. [Thomas Peterson](https://tpetersonkth.github.io/2022/04/16/OSWE-Review.html)
+23. [NOH4TS](https://n0h4ts.medium.com/how-i-pass-oswe-on-the-first-try-2022-92ffaee1e636)
+24. [Alex](https://alex-labs.com/my-awae-review-becoming-an-oswe/)
+25. [RCESecurity](https://www.rcesecurity.com/2022/04/AWAE-Course-and-OSWE-Exam-Review/)
 
 ### Extra Content 
 
@@ -164,6 +169,10 @@
 - https://makosecblog.com/miscellaneous/osep-course-review/
 - https://davidlebr1.gitbook.io/infosec/blog/osep-review
 - https://www.offensive-security.com/offsec/pen300-approach-review/
+- https://www.linkedin.com/pulse/osep-study-guide-2022-jo%C3%A3o-paulo-de-andrade-filho/
+- https://www.youtube.com/watch?v=R1apMwbVuDs
+- https://www.youtube.com/watch?v=iUPyiJbN4l4
+- https://corneacristian.medium.com/tips-for-offensive-security-experienced-penetration-tester-osep-certification-92f3801428c3
 
 ### Labs
 
@@ -178,6 +187,7 @@
 - https://www.youtube.com/watch?v=dS0GcSA7kEw&ab_channel=PentesterAcademyTV
 - https://www.youtube.com/watch?v=cqxOS9uQL_c&ab_channel=PacktVideo
 - https://www.youtube.com/watch?v=ZaJpDeLvo6I&ab_channel=PentesterAcademyTV
+- https://github.com/In3x0rabl3/OSEP
 
 ## OSED
 
@@ -246,6 +256,10 @@
 - https://github.com/dhn/OSEE
 - https://pythonrepo.com/repo/epi052-osed-scripts
 - https://github.com/nop-tech/OSED
+- https://www.ired.team/offensive-security/code-injection-process-injection/binary-exploitation/rop-chaining-return-oriented-programming
+- https://infosecwriteups.com/rop-chains-on-arm-3f087a95381e
+- https://www.youtube.com/watch?v=8zRoMAkGYQE
+- https://resources.infosecinstitute.com/topic/return-oriented-programming-rop-attacks/
 
 
 ### Reviews
@@ -262,6 +276,7 @@
 - https://blog.kuhi.to/offsec-exp301-osed-review
 - https://epi052.gitlab.io/notes-to-self/blog/2021-06-16-windows-usermode-exploit-development-review/
 - https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-and/
+- https://www.youtube.com/watch?v=NAe6f1_XG6Q
 
 ### Labs
 
@@ -291,5 +306,3 @@
 ### [Filipi Pires - Linkedin](https://www.linkedin.com/in/filipipires/)
 ### [Filipi Pires - GitHub](https://github.com/filipi86)
 ### [Filipi Pires - Twitter](https://twitter.com/FilipiPires)
-
-*XMind - Evaluation Version*
