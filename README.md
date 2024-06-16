@@ -38,7 +38,9 @@
 8. [rayhan0x01](https://rayhan0x01.github.io/web/2021/04/12/awae-web-300-oswe-guide-2021.html) - Reference guide
 9. [Nathan-Rague](https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide) - Reference guide
 10. [Joas Content](https://drive.google.com/file/d/1bASc-SLmuD0tXmd88h0QclRSpUu_rvnF/view?usp=sharing) - Reference guide
-11. [Lawlez-Github](https://github.com/Lawlez/myOSWE) - Reference guide 
+11. [Lawlez-Github](https://github.com/Lawlez/myOSWE) - Reference guide
+12. [0xb120](https://github.com/0xb120/cheatsheets_and_ctf-notes/blob/main/OSWE%20preparation.md) - Reference Guide
+13. [Jaelkoh](https://infosec.jaelkoh.com/2024/my-first-year-in-infosec-zero-to-osce3)
 
 ### Vulnerabilities (https://github.com/AzyzChayeb)
 
@@ -106,6 +108,10 @@
 27. [Karol Mazurek](https://karol-mazurek95.medium.com/oswe-preparation-5d2d5f0e2cba)
 28. [4PFSec](https://4pfsec.com/oswe)
 29. [Cobalt.io](https://www.cobalt.io/blog/awae-oswe-for-humans)
+30. [hakansonay](https://hakansonay.medium.com/the-oswe-review-and-exam-preparation-guide-e37886046b23)
+31. [Jake Mayhew](https://medium.com/@jake.mayhew/web-300-oswe-review-offsec-web-expert-46074fbdb237)
+32. [Organic Security](https://www.organicsecurity.in/2024/01/oswe-by-offsec-detailed-review.html)
+33. [Bitten Tech](https://www.youtube.com/watch?v=k1NExrTNfks)
 
 ### Extra Content 
 
@@ -141,65 +147,76 @@
 
 ### Study Materials
 
-- https://github.com/chvancooten/OSEP-Code-Snippets
-- https://github.com/nullg0re/Experienced-Pentester-OSEP
-- https://github.com/r0r0x-xx/OSEP-Pre
-- https://github.com/deletehead/pen_300_osep_prep
-- https://github.com/J3rryBl4nks/OSEP-Thoughts
-- https://github.com/chvancooten/OSEP-Code-Snippets/blob/main/README.md
-- https://github.com/aldanabae/Osep
-- https://drive.google.com/file/d/1znezUNtghkcFhwfKMZmeyNrtdbwBXRsz/view?usp=sharing
-- https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
-- https://www.linkedin.com/pulse/osep-study-guide-2022-jo%C3%A3o-paulo-de-andrade-filho/
+- [OSEP Code Snippets](https://github.com/chvancooten/OSEP-Code-Snippets)
+- [Experienced Pentester OSEP](https://github.com/nullg0re/Experienced-Pentester-OSEP)
+- [OSEP Pre](https://github.com/r0r0x-xx/OSEP-Pre)
+- [PEN 300 OSEP Prep](https://github.com/deletehead/pen_300_osep_prep)
+- [OSEP Thoughts](https://github.com/J3rryBl4nks/OSEP-Thoughts)
+- [OSEP Code Snippets README](https://github.com/chvancooten/OSEP-Code-Snippets/blob/main/README.md)
+- [Osep](https://github.com/aldanabae/Osep)
+- [Google Drive File](https://drive.google.com/file/d/1znezUNtghkcFhwfKMZmeyNrtdbwBXRsz/view?usp=sharing)
+- [Awesome Red Team Operations](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations)
+- [OSEP Study Guide 2022 - João Paulo de Andrade Filho](https://www.linkedin.com/pulse/osep-study-guide-2022-jo%C3%A3o-paulo-de-andrade-filho/)
+- [OSEP PREP Useful Resources Payloads](https://github.com/Ross46/OSEP-PREP/blob/main/Useful%20Resources/Payloads.md)
+- [OSEP in3x0rab13](https://github.com/In3x0rabl3/OSEP)
 
 ### Reviews
 
-- https://nullg0re.com/?p=113
-- https://spaceraccoon.dev/offensive-security-experienced-penetration-tester-osep-review-and-exam
-- https://www.youtube.com/watch?v=fA3pkNcGpH0&ab_channel=HackSouth
-- https://www.schellman.com/blog/osep-and-pen-300-course-review
-- https://cinzinga.com/OSEP-PEN-300-Review/
-- https://www.youtube.com/watch?v=iUPyiJbN4l4
-- https://www.bordergate.co.uk/offensive-security-experienced-penetration-tester-osep-review/
-- https://www.reddit.com/r/osep/comments/ldhc20/osep_review/
-- https://www.reddit.com/r/oscp/comments/jj0sr9/offensive_security_experienced_penetration_tester/
-- https://www.purpl3f0xsecur1ty.tech/2021/03/18/osep.html
-- https://makosecblog.com/miscellaneous/osep-course-review/
-- https://www.youtube.com/watch?v=iUPyiJbN4l4&t=1s
-- https://www.youtube.com/watch?v=15sv5eZ0oCM
-- https://www.youtube.com/watch?v=0n3Li63PwnQ
-- https://www.youtube.com/watch?v=BWNzB1wIEQ
-- https://spaceraccoon.dev/offensive-security-experienced-penetration-tester-osep-review-and-exam
-- https://casvancooten.com/posts/2021/03/getting-the-osep-certification-evasion-techniques-and-breaching-defenses-pen-300-course-review/
-- https://www.bordergate.co.uk/offensive-security-experienced-penetration-tester-osep-review/
-- https://makosecblog.com/miscellaneous/osep-course-review/
-- https://davidlebr1.gitbook.io/infosec/blog/osep-review
-- https://www.offensive-security.com/offsec/pen300-approach-review/
-- https://www.linkedin.com/pulse/osep-study-guide-2022-jo%C3%A3o-paulo-de-andrade-filho/
-- https://www.youtube.com/watch?v=R1apMwbVuDs
-- https://www.youtube.com/watch?v=iUPyiJbN4l4
-- https://corneacristian.medium.com/tips-for-offensive-security-experienced-penetration-tester-osep-certification-92f3801428c3
-- https://securityboulevard.com/2023/05/osep-review/
-- https://www.youtube.com/watch?v=R1apMwbVuDs&ab_channel=Conda
-- https://fluidattacks.com/blog/osep-review/
-- https://heartburn.dev/osep-review-2021-offensive-security-experienced-pentester/
-- https://www.youtube.com/watch?v=FVZkVZKIyOA&ab_channel=FantasM
+- [nullg0re](https://nullg0re.com/?p=113)
+- [SpaceRaccoon Dev](https://spaceraccoon.dev/offensive-security-experienced-penetration-tester-osep-review-and-exam)
+- [HackSouth YouTube](https://www.youtube.com/watch?v=fA3pkNcGpH0&ab_channel=HackSouth)
+- [Schellman](https://www.schellman.com/blog/osep-and-pen-300-course-review)
+- [Cinzinga](https://cinzinga.com/OSEP-PEN-300-Review/)
+- [YouTube iUPyiJbN4l4](https://www.youtube.com/watch?v=iUPyiJbN4l4)
+- [BorderGate](https://www.bordergate.co.uk/offensive-security-experienced-penetration-tester-osep-review/)
+- [Reddit OSEP Review](https://www.reddit.com/r/osep/comments/ldhc20/osep_review/)
+- [Reddit OSCP Review](https://www.reddit.com/r/oscp/comments/jj0sr9/offensive_security_experienced_penetration_tester/)
+- [Purpl3F0xSecur1ty](https://www.purpl3f0xsecur1ty.tech/2021/03/18/osep.html)
+- [MakoSecBlog](https://makosecblog.com/miscellaneous/osep-course-review/)
+- [YouTube iUPyiJbN4l4](https://www.youtube.com/watch?v=iUPyiJbN4l4&t=1s)
+- [YouTube 15sv5eZ0oCM](https://www.youtube.com/watch?v=15sv5eZ0oCM)
+- [YouTube 0n3Li63PwnQ](https://www.youtube.com/watch?v=0n3Li63PwnQ)
+- [YouTube BWNzB1wIEQ](https://www.youtube.com/watch?v=BWNzB1wIEQ)
+- [SpaceRaccoon Dev](https://spaceraccoon.dev/offensive-security-experienced-penetration-tester-osep-review-and-exam)
+- [Cas van Cooten](https://casvancooten.com/posts/2021/03/getting-the-osep-certification-evasion-techniques-and-breaching-defenses-pen-300-course-review/)
+- [BorderGate](https://www.bordergate.co.uk/offensive-security-experienced-penetration-tester-osep-review/)
+- [MakoSecBlog](https://makosecblog.com/miscellaneous/osep-course-review/)
+- [David Lebr1 GitBook](https://davidlebr1.gitbook.io/infosec/blog/osep-review)
+- [Offensive Security](https://www.offensive-security.com/offsec/pen300-approach-review/)
+- [João Paulo de Andrade Filho LinkedIn](https://www.linkedin.com/pulse/osep-study-guide-2022-jo%C3%A3o-paulo-de-andrade-filho/)
+- [YouTube R1apMwbVuDs](https://www.youtube.com/watch?v=R1apMwbVuDs)
+- [YouTube iUPyiJbN4l4](https://www.youtube.com/watch?v=iUPyiJbN4l4)
+- [Cristian Cornea Medium](https://corneacristian.medium.com/tips-for-offensive-security-experienced-penetration-tester-osep-certification-92f3801428c3)
+- [Security Boulevard](https://securityboulevard.com/2023/05/osep-review/)
+- [YouTube R1apMwbVuDs](https://www.youtube.com/watch?v=R1apMwbVuDs&ab_channel=Conda)
+- [Fluid Attacks](https://fluidattacks.com/blog/osep-review/)
+- [Heartburn.dev](https://heartburn.dev/osep-review-2021-offensive-security-experienced-pentester/)
+- [YouTube FVZkVZKIyOA](https://www.youtube.com/watch?v=FVZkVZKIyOA&ab_channel=FantasM)
+- [RootJaxk](https://rootjaxk.github.io/posts/OSEP/)
+- [Dhruvagoyal](https://dhruvagoyal.medium.com/cracking-the-osep-exam-a-48-hour-marathon-to-victory-c0021cd15c3c)
+- [IT Security Labs](https://www.youtube.com/watch?v=5SEgaUhVCcE)
+- [Benjamen Lim](https://westsideelectronics.com/osep-in-2024/)
+- [Marmeus](https://marmeus.com/post/OSEP)
+- [Winslow](https://winslow1984.com/books/notes-beK/page/backup-osep-and-oswe-review)
+- [Jakob Bo Moller](https://www.linkedin.com/pulse/my-osep-experience-jakob-bo-m%C3%B8ller-0taze/)
+- [swzhouu](https://medium.com/secure-d/offsec-experienced-penetration-tester-osep-2024-review-9183343d7453)
+
 
 ### Labs
 
-- https://spaceraccoon.dev/offensive-security-experienced-penetration-tester-osep-review-and-exam
-- https://www.exploit-db.com/evasion-techniques-breaching-defenses
-- https://noraj.github.io/OSCP-Exam-Report-Template-Markdown/
-- https://help.offensive-security.com/hc/en-us/articles/360049781352-OSEP-Exam-FAQ
-- https://www.cybereagle.io/blog/osep-review/
-- https://pentestlab.blog/category/red-team/defense-evasion/
-- https://pentestlab.blog/tag/antivirus-evasion/
-- https://pentestlaboratories.com/2021/01/18/process-herpaderping-windows-defender-evasion/
-- https://www.youtube.com/watch?v=dS0GcSA7kEw&ab_channel=PentesterAcademyTV
-- https://www.youtube.com/watch?v=cqxOS9uQL_c&ab_channel=PacktVideo
-- https://www.youtube.com/watch?v=ZaJpDeLvo6I&ab_channel=PentesterAcademyTV
-- https://github.com/In3x0rabl3/OSEP
-- https://github.com/timip/OSEP
+- [SpaceRaccoon Dev - OSEP Review and Exam](https://spaceraccoon.dev/offensive-security-experienced-penetration-tester-osep-review-and-exam)
+- [Exploit-DB - Evasion Techniques Breaching Defenses](https://www.exploit-db.com/evasion-techniques-breaching-defenses)
+- [OSCP Exam Report Template Markdown](https://noraj.github.io/OSCP-Exam-Report-Template-Markdown/)
+- [Offensive Security - OSEP Exam FAQ](https://help.offensive-security.com/hc/en-us/articles/360049781352-OSEP-Exam-FAQ)
+- [CyberEagle - OSEP Review](https://www.cybereagle.io/blog/osep-review/)
+- [PentestLab - Defense Evasion](https://pentestlab.blog/category/red-team/defense-evasion/)
+- [PentestLab - Antivirus Evasion](https://pentestlab.blog/tag/antivirus-evasion/)
+- [PentestLaboratories - Process Herpaderping Windows Defender Evasion](https://pentestlaboratories.com/2021/01/18/process-herpaderping-windows-defender-evasion/)
+- [YouTube - PentesterAcademyTV](https://www.youtube.com/watch?v=dS0GcSA7kEw&ab_channel=PentesterAcademyTV)
+- [YouTube - PacktVideo](https://www.youtube.com/watch?v=cqxOS9uQL_c&ab_channel=PacktVideo)
+- [YouTube - PentesterAcademyTV](https://www.youtube.com/watch?v=ZaJpDeLvo6I&ab_channel=PentesterAcademyTV)
+- [GitHub - In3x0rabl3/OSEP](https://github.com/In3x0rabl3/OSEP)
+- [GitHub - timip/OSEP](https://github.com/timip/OSEP)
 
 ## OSED
 
@@ -218,102 +235,105 @@
 
 ### Study Materials
 
-- https://github.com/snoopysecurity/OSCE-Prep
-- https://github.com/epi052/osed-scripts
-- https://www.exploit-db.com/windows-user-mode-exploit-development
-- https://github.com/r0r0x-xx/OSED-Pre
-- https://github.com/sradley/osed
-- https://github.com/Nero22k/Exploit_Development
-- https://www.youtube.com/watch?v=7PMw9GIb8Zs
-- https://www.youtube.com/watch?v=FH1KptfPLKo
-- https://www.youtube.com/watch?v=sOMmzUuwtmc
-- https://blog.exploitlab.net/
-- https://azeria-labs.com/heap-exploit-development-part-1/
-- http://zeroknights.com/getting-started-exploit-lab/
-- https://drive.google.com/file/d/1poocO7AOMyBQBtDXvoaZ2dgkq3Zf1Wlb/view?usp=sharing
-- https://drive.google.com/file/d/1qPPs8DHbeJ6YIIjbsC-ZPMajUeSfXw6N/view?usp=sharing
-- https://drive.google.com/file/d/1RdkhmTIvD6H4uTNxWL4FCKISgVUbaupL/view?usp=sharing
-- https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
-- https://github.com/wtsxDev/Exploit-Development/blob/master/README.md
-- https://github.com/corelan/CorelanTraining
-- https://github.com/subat0mik/Journey_to_OSCE
-- https://github.com/nanotechz9l/Corelan-Exploit-tutorial-part-1-Stack-Based-Overflows/blob/master/3%20eip_crash.rb
-- https://github.com/snoopysecurity/OSCE-Prep
-- https://github.com/bigb0sss/OSCE
-- https://github.com/epi052/OSCE-exam-practice
-- https://github.com/mdisec/osce-preparation
-- https://github.com/mohitkhemchandani/OSCE_BIBLE
-- https://github.com/FULLSHADE/OSCE
-- https://github.com/areyou1or0/OSCE-Exploit-Development
-- https://github.com/securityELI/CTP-OSCE
-- https://drive.google.com/file/d/1MH9Tv-YTUVrqgLT3qJDBl8Ww09UyF2Xc/view?usp=sharing
-- https://www.coalfire.com/the-coalfire-blog/january-2020/the-basics-of-exploit-development-1
-- https://connormcgarr.github.io/browser1/
-- https://kalitut.com/exploit-development-resources/
-- https://github.com/0xZ0F/Z0FCourse_ExploitDevelopment
-- https://github.com/dest-3/OSED_Resources/
-- https://resources.infosecinstitute.com/topic/python-for-exploit-development-common-vulnerabilities-and-exploits/
-- https://www.anitian.com/a-study-in-exploit-development-part-1-setup-and-proof-of-concept/
-- https://samsclass.info/127/127_WWC_2014.shtml
-- https://stackoverflow.com/questions/42615124/exploit-development-in-python-3
-- https://cd6629.gitbook.io/ctfwriteups/converting-metasploit-modules-to-python
-- https://subscription.packtpub.com/book/networking_and_servers/9781785282324/8
-- https://www.cybrary.it/video/exploit-development-part-5/
-- https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-an
-- https://help.offensive-security.com/hc/en-us/articles/360052977212-OSED-Exam-Guide
-- https://github.com/epi052/osed-scripts
-- https://www.youtube.com/watch?v=0n3Li63PwnQ
-- https://epi052.gitlab.io/notes-to-self/blog/2021-06-16-windows-usermode-exploit-development-review/
-- https://pythonrepo.com/repo/epi052-osed-scripts
-- https://github.com/dhn/OSEE
-- https://pythonrepo.com/repo/epi052-osed-scripts
-- https://github.com/nop-tech/OSED
-- https://www.ired.team/offensive-security/code-injection-process-injection/binary-exploitation/rop-chaining-return-oriented-programming
-- https://infosecwriteups.com/rop-chains-on-arm-3f087a95381e
-- https://www.youtube.com/watch?v=8zRoMAkGYQE
-- https://resources.infosecinstitute.com/topic/return-oriented-programming-rop-attacks/
-- https://github.com/dest-3/OSED_Resources
-- https://github.com/mrtouch93/OSED-Notes
-- https://github.com/wry4n/osed-scripts
-- https://github.com/r0r0x-xx/OSED-Pre
+- [snoopysecurity - OSCE Prep](https://github.com/snoopysecurity/OSCE-Prep)
+- [epi052 - OSED Scripts](https://github.com/epi052/osed-scripts)
+- [Exploit-DB - Windows User Mode Exploit Development](https://www.exploit-db.com/windows-user-mode-exploit-development)
+- [r0r0x-xx - OSED Pre](https://github.com/r0r0x-xx/OSED-Pre)
+- [sradley - OSED](https://github.com/sradley/osed)
+- [Nero22k - Exploit Development](https://github.com/Nero22k/Exploit_Development)
+- [YouTube - 7PMw9GIb8Zs](https://www.youtube.com/watch?v=7PMw9GIb8Zs)
+- [YouTube - FH1KptfPLKo](https://www.youtube.com/watch?v=FH1KptfPLKo)
+- [YouTube - sOMmzUuwtmc](https://www.youtube.com/watch?v=sOMmzUuwtmc)
+- [ExploitLab Blog](https://blog.exploitlab.net/)
+- [Azeria Labs - Heap Exploit Development Part 1](https://azeria-labs.com/heap-exploit-development-part-1/)
+- [ZeroKnights - Getting Started Exploit Lab](http://zeroknights.com/getting-started-exploit-lab/)
+- [Google Drive File 1](https://drive.google.com/file/d/1poocO7AOMyBQBtDXvoaZ2dgkq3Zf1Wlb/view?usp=sharing)
+- [Google Drive File 2](https://drive.google.com/file/d/1qPPs8DHbeJ6YIIjbsC-ZPMajUeSfXw6N/view?usp=sharing)
+- [Google Drive File 3](https://drive.google.com/file/d/1RdkhmTIvD6H4uTNxWL4FCKISgVUbaupL/view?usp=sharing)
+- [Corelan - Exploit Writing Tutorial Part 1: Stack Based Overflows](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
+- [wtsxDev - Exploit Development](https://github.com/wtsxDev/Exploit-Development/blob/master/README.md)
+- [corelan - Corelan Training](https://github.com/corelan/CorelanTraining)
+- [subat0mik - Journey to OSCE](https://github.com/subat0mik/Journey_to_OSCE)
+- [nanotechz9l - Corelan Exploit Tutorial Part 1: Stack Based Overflows](https://github.com/nanotechz9l/Corelan-Exploit-tutorial-part-1-Stack-Based-Overflows/blob/master/3%20eip_crash.rb)
+- [snoopysecurity - OSCE Prep](https://github.com/snoopysecurity/OSCE-Prep)
+- [bigb0sss - OSCE](https://github.com/bigb0sss/OSCE)
+- [epi052 - OSCE Exam Practice](https://github.com/epi052/OSCE-exam-practice)
+- [mdisec - OSCE Preparation](https://github.com/mdisec/osce-preparation)
+- [mohitkhemchandani - OSCE BIBLE](https://github.com/mohitkhemchandani/OSCE_BIBLE)
+- [FULLSHADE - OSCE](https://github.com/FULLSHADE/OSCE)
+- [areyou1or0 - OSCE Exploit Development](https://github.com/areyou1or0/OSCE-Exploit-Development)
+- [securityELI - CTP OSCE](https://github.com/securityELI/CTP-OSCE)
+- [Google Drive File 4](https://drive.google.com/file/d/1MH9Tv-YTUVrqgLT3qJDBl8Ww09UyF2Xc/view?usp=sharing)
+- [Coalfire Blog - The Basics of Exploit Development](https://www.coalfire.com/the-coalfire-blog/january-2020/the-basics-of-exploit-development-1)
+- [Connor McGarr - Browser Exploit](https://connormcgarr.github.io/browser1/)
+- [KaliTut - Exploit Development Resources](https://kalitut.com/exploit-development-resources/)
+- [0xZ0F - Z0FCourse Exploit Development](https://github.com/0xZ0F/Z0FCourse_ExploitDevelopment)
+- [dest-3 - OSED Resources](https://github.com/dest-3/OSED_Resources)
+- [Infosec Institute - Python for Exploit Development](https://resources.infosecinstitute.com/topic/python-for-exploit-development-common-vulnerabilities-and-exploits/)
+- [Anitian - A Study in Exploit Development Part 1: Setup and Proof of Concept](https://www.anitian.com/a-study-in-exploit-development-part-1-setup-and-proof-of-concept/)
+- [Sam's Class - WWC 2014](https://samsclass.info/127/127_WWC_2014.shtml)
+- [Stack Overflow - Exploit Development in Python 3](https://stackoverflow.com/questions/42615124/exploit-development-in-python-3)
+- [CTF Writeups - Converting Metasploit Modules to Python](https://cd6629.gitbook.io/ctfwriteups/converting-metasploit-modules-to-python)
+- [PacktPub - Networking and Servers](https://subscription.packtpub.com/book/networking_and_servers/9781785282324/8)
+- [Cybrary - Exploit Development Part 5](https://www.cybrary.it/video/exploit-development-part-5/)
+- [SpaceRaccoon - ROP and Roll EXP-301 Offensive Security Exploit Development (OSED) Review](https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-an)
+- [Offensive Security - OSED Exam Guide](https://help.offensive-security.com/hc/en-us/articles/360052977212-OSED-Exam-Guide)
+- [epi052 - OSED Scripts](https://github.com/epi052/osed-scripts)
+- [YouTube - 0n3Li63PwnQ](https://www.youtube.com/watch?v=0n3Li63PwnQ)
+- [epi052 - Windows Usermode Exploit Development Review](https://epi052.gitlab.io/notes-to-self/blog/2021-06-16-windows-usermode-exploit-development-review/)
+- [PythonRepo - epi052 OSED Scripts](https://pythonrepo.com/repo/epi052-osed-scripts)
+- [dhn - OSEE](https://github.com/dhn/OSEE)
+- [PythonRepo - epi052 OSED Scripts](https://pythonrepo.com/repo/epi052-osed-scripts)
+- [nop-tech - OSED](https://github.com/nop-tech/OSED)
+- [Ired Team - ROP Chaining Return Oriented Programming](https://www.ired.team/offensive-security/code-injection-process-injection/binary-exploitation/rop-chaining-return-oriented-programming)
+- [InfoSec Writeups - ROP Chains on ARM](https://infosecwriteups.com/rop-chains-on-arm-3f087a95381e)
+- [YouTube - 8zRoMAkGYQE](https://www.youtube.com/watch?v=8zRoMAkGYQE)
+- [Infosec Institute - Return Oriented Programming ROP Attacks](https://resources.infosecinstitute.com/topic/return-oriented-programming-rop-attacks/)
+- [dest-3 - OSED Resources](https://github.com/dest-3/OSED_Resources)
+- [mrtouch93 - OSED Notes](https://github.com/mrtouch93/OSED-Notes)
+- [wry4n - OSED Scripts](https://github.com/wry4n/osed-scripts)
+- [r0r0x-xx - OSED Pre](https://github.com/r0r0x-xx/OSED-Pre)
 
 ### Reviews
 
-- https://www.youtube.com/watch?v=aWHL9hIKTCA
-- https://www.youtube.com/watch?v=62mWZ1xd8eM
-- https://ihack4falafel.github.io/Offensive-Security-AWEOSEE-Review/
-- https://www.linkedin.com/pulse/advanced-windows-exploitation-osee-review-etizaz-mohsin-/
-- https://animal0day.blogspot.com/2018/11/reviews-for-oscp-osce-osee-and-corelan.html
-- https://addaxsoft.com/blog/offensive-security-advanced-windows-exploitation-awe-osee-review/
-- https://jhalon.github.io/OSCE-Review/
-- https://www.youtube.com/watch?v=NAe6f1_XG6Q
-- https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-and
-- https://blog.kuhi.to/offsec-exp301-osed-review
-- https://epi052.gitlab.io/notes-to-self/blog/2021-06-16-windows-usermode-exploit-development-review/
-- https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-and/
-- https://www.youtube.com/watch?v=NAe6f1_XG6Q
-- https://www.linkedin.com/posts/cristian-cornea-b37005178_offensive-security-certified-expert-3-osce3-activity-7006233011746709505-1WCG/
-- https://nop-blog.tech/blog/osed/
 
+- [YouTube - aWHL9hIKTCA](https://www.youtube.com/watch?v=aWHL9hIKTCA)
+- [YouTube - 62mWZ1xd8eM](https://www.youtube.com/watch?v=62mWZ1xd8eM)
+- [ihack4falafel - Offensive Security AWEOSEE Review](https://ihack4falafel.github.io/Offensive-Security-AWEOSEE-Review/)
+- [LinkedIn - Advanced Windows Exploitation (OSEE) Review - Etizaz Mohsin](https://www.linkedin.com/pulse/advanced-windows-exploitation-osee-review-etizaz-mohsin-/)
+- [Animal0day - Reviews for OSCP, OSCE, OSEE, and Corelan](https://animal0day.blogspot.com/2018/11/reviews-for-oscp-osce-osee-and-corelan.html)
+- [AddaxSoft - Offensive Security Advanced Windows Exploitation (AWE/OSEE) Review](https://addaxsoft.com/blog/offensive-security-advanced-windows-exploitation-awe-osee-review/)
+- [jhalon - OSCE Review](https://jhalon.github.io/OSCE-Review/)
+- [YouTube - NAe6f1_XG6Q](https://www.youtube.com/watch?v=NAe6f1_XG6Q)
+- [SpaceRaccoon - ROP and Roll EXP-301 Offensive Security Exploit Development (OSED) Review](https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-and)
+- [kuhi.to - OFFSEC EXP301 OSED Review](https://blog.kuhi.to/offsec-exp301-osed-review)
+- [epi052 - Windows Usermode Exploit Development Review](https://epi052.gitlab.io/notes-to-self/blog/2021-06-16-windows-usermode-exploit-development-review/)
+- [SpaceRaccoon - ROP and Roll EXP-301 Offensive Security Exploit Development (OSED) Review](https://spaceraccoon.dev/rop-and-roll-exp-301-offensive-security-exploit-development-osed-review-and/)
+- [YouTube - NAe6f1_XG6Q](https://www.youtube.com/watch?v=NAe6f1_XG6Q)
+- [LinkedIn - Offensive Security Certified Expert 3 (OSCE3) - Cristian Cornea](https://www.linkedin.com/posts/cristian-cornea-b37005178_offensive-security-certified-expert-3-osce3-activity-7006233011746709505-1WCG/)
+- [NOP Blog - OSED](https://nop-blog.tech/blog/osed/)
+- [Deep Hacking - OSED Review](https://deephacking.tech/osed-review/)
+  
 ### Labs
 
-- https://github.com/CyberSecurityUP/Buffer-Overflow-Labs
-- https://github.com/ihack4falafel/OSCE
-- https://github.com/nathunandwani/ctp-osce
-- https://github.com/firmianay/Life-long-Learner/blob/master/SEED-labs/buffer-overflow-vulnerability-lab.md
-- https://github.com/wadejason/Buffer-Overflow-Vulnerability-Lab
-- https://github.com/Jeffery-Liu/Buffer-Overflow-Vulnerability-Lab
-- https://github.com/mutianxu/SEED-LAB-Bufferoverflow_attack
-- https://my.ine.com/CyberSecurity/courses/54819bbb/windows-exploit-development
-- https://connormcgarr.github.io/browser1/
-- https://www.coalfire.com/the-coalfire-blog/january-2020/the-basics-of-exploit-development-1
-- https://pentestmag.com/product/exploit-development-windows-w38/
-- https://steflan-security.com/complete-guide-to-stack-buffer-overflow-oscp/#:~:text=Stack%20buffer%20overflow%20is%20a,of%20the%20intended%20data%20structure.
-- https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/
-- https://www.exploit-db.com/exploits/42928
-- https://www.exploit-db.com/exploits/10434
-- https://ocw.cs.pub.ro/courses/cns/labs/lab-08
-- https://github.com/epi052/osed-scripts
+- [CyberSecurityUP - Buffer Overflow Labs](https://github.com/CyberSecurityUP/Buffer-Overflow-Labs)
+- [ihack4falafel - OSCE](https://github.com/ihack4falafel/OSCE)
+- [nathunandwani - CTP OSCE](https://github.com/nathunandwani/ctp-osce)
+- [sufyandaredevil - OSED - Exploiting SEH Overflows](https://github.com/sufyandaredevil/OSED/blob/main/03_exploiting_seh_overflows.md)
+- [firmianay - Life-long Learner - SEED Labs - Buffer Overflow Vulnerability Lab](https://github.com/firmianay/Life-long-Learner/blob/master/SEED-labs/buffer-overflow-vulnerability-lab.md)
+- [wadejason - Buffer Overflow Vulnerability Lab](https://github.com/wadejason/Buffer-Overflow-Vulnerability-Lab)
+- [Jeffery-Liu - Buffer Overflow Vulnerability Lab](https://github.com/Jeffery-Liu/Buffer-Overflow-Vulnerability-Lab)
+- [mutianxu - SEED LAB - Buffer Overflow Attack](https://github.com/mutianxu/SEED-LAB-Bufferoverflow_attack)
+- [INE - Windows Exploit Development](https://my.ine.com/CyberSecurity/courses/54819bbb/windows-exploit-development)
+- [Connor McGarr - Browser Exploit](https://connormcgarr.github.io/browser1/)
+- [Coalfire Blog - The Basics of Exploit Development](https://www.coalfire.com/the-coalfire-blog/january-2020/the-basics-of-exploit-development-1)
+- [Pentest Magazine - Exploit Development Windows](https://pentestmag.com/product/exploit-development-windows-w38/)
+- [Steflan Security - Complete Guide to Stack Buffer Overflow (OSCP)](https://steflan-security.com/complete-guide-to-stack-buffer-overflow-oscp/#:~:text=Stack%20buffer%20overflow%20is%20a,of%20the%20intended%20data%20structure)
+- [Offensive Security - EVOCAM Remote Buffer Overflow on OSX](https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/)
+- [Exploit-DB - Exploit 42928](https://www.exploit-db.com/exploits/42928)
+- [Exploit-DB - Exploit 10434](https://www.exploit-db.com/exploits/10434)
+- [OCW CS PUB RO - Lab 08](https://ocw.cs.pub.ro/courses/cns/labs/lab-08)
+- [epi052 - OSED Scripts](https://github.com/epi052/osed-scripts)
 
 ## OSEE
 
