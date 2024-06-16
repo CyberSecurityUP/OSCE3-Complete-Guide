@@ -42,7 +42,7 @@
 12. [0xb120](https://github.com/0xb120/cheatsheets_and_ctf-notes/blob/main/OSWE%20preparation.md) - Reference Guide
 13. [Jaelkoh](https://infosec.jaelkoh.com/2024/my-first-year-in-infosec-zero-to-osce3)
 
-### Vulnerabilities (https://github.com/AzyzChayeb)
+### Vulnerabilities
 
 1. [XXE Injection](https://www.hackingarticles.in/comprehensive-guide-on-xxe-injection/)
 2. [CSRF](https://www.hackingarticles.in/understanding-the-csrf-vulnerability-a-beginners-guide/)
