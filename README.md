@@ -381,7 +381,7 @@
 - https://github.com/gscamelo/OSEE
 - https://github.com/w4fz5uck5/3XPL01t5
 
-## Our Social Network
+## Social Network
 
 ### [Joas Antonio - Linkedin](https://www.linkedin.com/in/joas-antonio-dos-santos)
 ### [CyberSceurityUP- GitHub](https://github.com/CyberSecurityUP)
