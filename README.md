@@ -112,6 +112,11 @@
 31. [Jake Mayhew](https://medium.com/@jake.mayhew/web-300-oswe-review-offsec-web-expert-46074fbdb237)
 32. [Organic Security](https://www.organicsecurity.in/2024/01/oswe-by-offsec-detailed-review.html)
 33. [Bitten Tech](https://www.youtube.com/watch?v=k1NExrTNfks)
+34. [What is OSWE Certification – StationX](https://www.stationx.net/what-is-oswe-certification/)
+35. [OSCP and OSWE Journey – Adam Bartlett](https://medium.com/@adamforsythebartlett/oscp-and-oswe-journey-fe28a994604c)
+36. [OSWE Notes – Secdomain](https://github.com/Secdomain/OSWE-Notes)
+37. [OSWE Resources – saunders-jake](https://github.com/saunders-jake/oswe-resources)
+
 
 ### Extra Content 
 
@@ -159,6 +164,7 @@
 - [OSEP Study Guide 2022 - João Paulo de Andrade Filho](https://www.linkedin.com/pulse/osep-study-guide-2022-jo%C3%A3o-paulo-de-andrade-filho/)
 - [OSEP PREP Useful Resources Payloads](https://github.com/Ross46/OSEP-PREP/blob/main/Useful%20Resources/Payloads.md)
 - [OSEP in3x0rab13](https://github.com/In3x0rabl3/OSEP)
+- [OSEP forsec](https://forsec.nl/osep.html)
 
 ### Reviews
 
@@ -200,7 +206,13 @@
 - [Winslow](https://winslow1984.com/books/notes-beK/page/backup-osep-and-oswe-review)
 - [Jakob Bo Moller](https://www.linkedin.com/pulse/my-osep-experience-jakob-bo-m%C3%B8ller-0taze/)
 - [swzhouu](https://medium.com/secure-d/offsec-experienced-penetration-tester-osep-2024-review-9183343d7453)
-
+- [My Review on OSEP 2025](https://medium.com/@toneemarqus/my-review-on-osep-2025-abea5413ca7f)
+- [OSEP Certification Overview – StationX](https://www.stationx.net/osep-certification/)
+- [I Passed OSEP with secret.txt and So Can You](https://medium.com/@beauknowstech/i-passed-osep-with-secret-txt-and-so-can-you-e0286d1af3bb)
+- [OSED vs OSEP Review – 0xbad53c](https://red.0xbad53c.com/training-reviews/offensive-security/osed)
+- [OSEP Prep Notes – Ross46](https://github.com/Ross46/OSEP-PREP/blob/main/Exam%202.0.md)
+- [OSEPlayground – Extravenger](https://github.com/Extravenger/OSEPlayground)
+- [YouTube – OSEP Review Video](https://www.youtube.com/watch?v=GweSTA7a4ho)
 
 ### Labs
 
@@ -313,7 +325,8 @@
 - [LinkedIn - Offensive Security Certified Expert 3 (OSCE3) - Cristian Cornea](https://www.linkedin.com/posts/cristian-cornea-b37005178_offensive-security-certified-expert-3-osce3-activity-7006233011746709505-1WCG/)
 - [NOP Blog - OSED](https://nop-blog.tech/blog/osed/)
 - [Deep Hacking - OSED Review](https://deephacking.tech/osed-review/)
-  
+- [OSED Review – Navigating The Shadows](https://red.0xbad53c.com/training-reviews/offensive-security/osed)
+
 ### Labs
 
 - [CyberSecurityUP - Buffer Overflow Labs](https://github.com/CyberSecurityUP/Buffer-Overflow-Labs)
@@ -347,39 +360,43 @@
 
 ### Study Materials
 
-- https://www.linkedin.com/pulse/advanced-windows-exploitation-osee-review-etizaz-mohsin-/
-- https://www.crowdstrike.com/blog/state-of-exploit-development-part-2/
-- https://www.youtube.com/watch?v=pH6qocUEor0&ab_channel=BlackHat
-- https://github.com/nccgroup/exploit_mitigations/blob/master/windows_mitigations.md
-- https://hack.technoherder.com/sandbox-escapes/
-- https://www.youtube.com/watch?v=LUH6ZxYNJFg&ab_channel=ZeroDayInitiative
-- https://www.youtube.com/watch?v=NDuWcGn5hTQ&ab_channel=ZeroDayInitiative
-- https://www.youtube.com/watch?v=p0OaGMlBb2k&ab_channel=BlackHat
-- https://github.com/MorteNoir1/virtualbox_e1000_0day
-- https://blog.palantir.com/assessing-the-effectiveness-of-a-new-security-data-source-windows-defender-exploit-guard-860b69db2ad2
-- https://github.com/palantir/exploitguard
-- https://github.com/microsoft/Windows-classic-samples
-- https://github.com/SofianeHamlaoui/Pentest-Notes/blob/master/offensive-security/code-injection-process-injection/how-to-hook-windows-api-using-c%2B%2B.md
-- https://github.com/ndeepak-zzzz/Windows-API-with-Python
-- https://int0x33.medium.com/day-59-windows-api-for-pentesting-part-1-178c6ba280cb
+- [Advanced Windows Exploitation (OSEE) Review – Etizaz Mohsin](https://www.linkedin.com/pulse/advanced-windows-exploitation-osee-review-etizaz-mohsin-/)
+- [State of Exploit Development Part 2 – CrowdStrike](https://www.crowdstrike.com/blog/state-of-exploit-development-part-2/)
+- [BlackHat – Windows Kernel Exploitation (Video)](https://www.youtube.com/watch?v=pH6qocUEor0&ab_channel=BlackHat)
+- [NCC Group – Windows Exploit Mitigations](https://github.com/nccgroup/exploit_mitigations/blob/master/windows_mitigations.md)
+- [Sandbox Escapes Collection – TechnoHerder](https://hack.technoherder.com/sandbox-escapes/)
+- [Zero Day Initiative – Kernel Exploitation (1)](https://www.youtube.com/watch?v=LUH6ZxYNJFg&ab_channel=ZeroDayInitiative)
+- [Zero Day Initiative – Kernel Exploitation (2)](https://www.youtube.com/watch?v=NDuWcGn5hTQ&ab_channel=ZeroDayInitiative)
+- [BlackHat – Bypassing Modern Windows Protections](https://www.youtube.com/watch?v=p0OaGMlBb2k&ab_channel=BlackHat)
+- [VirtualBox E1000 0-Day](https://github.com/MorteNoir1/virtualbox_e1000_0day)
+- [Palantir – Assessing Effectiveness of Defender Exploit Guard](https://blog.palantir.com/assessing-the-effectiveness-of-a-new-security-data-source-windows-defender-exploit-guard-860b69db2ad2)
+- [ExploitGuard – Palantir GitHub](https://github.com/palantir/exploitguard)
+- [Windows Classic Samples – Microsoft](https://github.com/microsoft/Windows-classic-samples)
+- [How to Hook Windows API using C++](https://github.com/SofianeHamlaoui/Pentest-Notes/blob/master/offensive-security/code-injection-process-injection/how-to-hook-windows-api-using-c%2B%2B.md)
+- [Windows API with Python](https://github.com/ndeepak-zzzz/Windows-API-with-Python)
+- [Windows API for Pentesting – int0x33](https://int0x33.medium.com/day-59-windows-api-for-pentesting-part-1-178c6ba280cb)
 
 ### Reviews
 
-- https://ihack4falafel.github.io/Offensive-Security-AWEOSEE-Review/
-- https://www.richardosgood.com/posts/advanced-windows-exploitation-review/
-- https://www.youtube.com/watch?v=srJ1ICC4ON8&ab_channel=DavidAlvesWeb
-- https://medium.com/@0xInyiak/my-offensive-security-journey-part-1-5ffbd66fe0c2
+- [AWEOSEE Review – ihack4falafel](https://ihack4falafel.github.io/Offensive-Security-AWEOSEE-Review/)
+- [Advanced Windows Exploitation Review – Richard Osgood](https://www.richardosgood.com/posts/advanced-windows-exploitation-review/)
+- [OSEE Review Video – David Alves](https://www.youtube.com/watch?v=srJ1ICC4ON8&ab_channel=DavidAlvesWeb)
+- [My Offensive Security Journey – 0xInyiak](https://medium.com/@0xInyiak/my-offensive-security-journey-part-1-5ffbd66fe0c2)
 
 ### Labs
 
-- https://github.com/BLACKHAT-SSG/EXP-401-OSEE
-- https://github.com/timip/OSEE
-- https://github.com/dhn/OSEE
-- https://github.com/orangice/AWE-OSEE-Prep
-- https://github.com/matthiaskonrath/AWE-OSEE-Prep
-- https://github.com/ihack4falafel/OSEE
-- https://github.com/gscamelo/OSEE
-- https://github.com/w4fz5uck5/3XPL01t5
+- [EXP-401-OSEE – BLACKHAT-SSG](https://github.com/BLACKHAT-SSG/EXP-401-OSEE)
+- [OSEE – timip](https://github.com/timip/OSEE)
+- [OSEE – dhn](https://github.com/dhn/OSEE)
+- [AWE-OSEE-Prep – orangice](https://github.com/orangice/AWE-OSEE-Prep)
+- [AWE-OSEE-Prep – matthiaskonrath](https://github.com/matthiaskonrath/AWE-OSEE-Prep)
+- [OSEE – ihack4falafel](https://github.com/ihack4falafel/OSEE)
+- [OSEE – gscamelo](https://github.com/gscamelo/OSEE)
+- [3XPL01t5 – w4fz5uck5](https://github.com/w4fz5uck5/3XPL01t5)
+
+## OSCE³ OffSec Resources
+
+- [OffSec Courses Tools](https://www.kali.org/tools/offsec-courses/)
 
 ## Social Network
 
