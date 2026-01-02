@@ -41,6 +41,8 @@
 11. [Lawlez-Github](https://github.com/Lawlez/myOSWE) - Reference guide
 12. [0xb120](https://github.com/0xb120/cheatsheets_and_ctf-notes/blob/main/OSWE%20preparation.md) - Reference Guide
 13. [Jaelkoh](https://infosec.jaelkoh.com/2024/my-first-year-in-infosec-zero-to-osce3)
+14. [snoopysecurity](https://github.com/snoopysecurity/OSWE-Prep) - Reference Guide
+15. [aaidanquimby](https://github.com/aaidanquimby/OSWE-Notes) - Reference Guide
 
 ### Vulnerabilities
 
@@ -116,6 +118,7 @@
 35. [OSCP and OSWE Journey – Adam Bartlett](https://medium.com/@adamforsythebartlett/oscp-and-oswe-journey-fe28a994604c)
 36. [OSWE Notes – Secdomain](https://github.com/Secdomain/OSWE-Notes)
 37. [OSWE Resources – saunders-jake](https://github.com/saunders-jake/oswe-resources)
+38. [OSWE Review - steflan](https://steflan-security.com/offsec-web-expert-oswe-review/)
 
 
 ### Extra Content 
