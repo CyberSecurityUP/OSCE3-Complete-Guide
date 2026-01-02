@@ -329,6 +329,9 @@
 - [NOP Blog - OSED](https://nop-blog.tech/blog/osed/)
 - [Deep Hacking - OSED Review](https://deephacking.tech/osed-review/)
 - [OSED Review – Navigating The Shadows](https://red.0xbad53c.com/training-reviews/offensive-security/osed)
+- [OSED Review - cydtseng](https://medium.com/@cydtseng/offsec-exploit-developer-osed-course-review-and-exam-preparation-tips-637a208934b8)
+- [OSED Review - insanitys](https://insanitys.medium.com/osed-review-cheatsheet-ad55b8aab1e2)
+- [OSCE3 Journey - Fabian](https://fabian-lim.com/my-journey-to-osce3-1a86d42a114d)
 
 ### Labs
 
@@ -350,6 +353,8 @@
 - [Exploit-DB - Exploit 10434](https://www.exploit-db.com/exploits/10434)
 - [OCW CS PUB RO - Lab 08](https://ocw.cs.pub.ro/courses/cns/labs/lab-08)
 - [epi052 - OSED Scripts](https://github.com/epi052/osed-scripts)
+- [PWN College](https://pwn.college/)
+- [CEDS by Red Team Leaders](https://courses.redteamleaders.com/exams/dea865ef-8649-4a4a-8002-83a725f7338d)
 
 ## OSEE
 
@@ -385,6 +390,10 @@
 - [Advanced Windows Exploitation Review – Richard Osgood](https://www.richardosgood.com/posts/advanced-windows-exploitation-review/)
 - [OSEE Review Video – David Alves](https://www.youtube.com/watch?v=srJ1ICC4ON8&ab_channel=DavidAlvesWeb)
 - [My Offensive Security Journey – 0xInyiak](https://medium.com/@0xInyiak/my-offensive-security-journey-part-1-5ffbd66fe0c2)
+- [OSEE Review](https://xn--tj3a.tw/posts/OSEE_Review_EXP-401_Advanced_Windows_Exploitation_ENG/)
+- [OSEE Review by Jake Mayhew](https://medium.com/@jake.mayhew/exp-401-osee-review-offensive-security-exploitation-expert-508f3357851d)
+- [Journey OSEE](https://io.cyberdefense.jp/en/entry/journey-to-osee-beyond-try-harder/)
+- [OSEE Ultimate Guide](https://flashgenius.net/blog-article/osee-certification-the-ultimate-2025-guide)
 
 ### Labs
 
@@ -396,6 +405,7 @@
 - [OSEE – ihack4falafel](https://github.com/ihack4falafel/OSEE)
 - [OSEE – gscamelo](https://github.com/gscamelo/OSEE)
 - [3XPL01t5 – w4fz5uck5](https://github.com/w4fz5uck5/3XPL01t5)
+- [CWDE - Red Team Leaders](https://courses.redteamleaders.com/exams/6dd6c07f-b8f5-49a5-aa0c-6e4da3fe1819)
 
 ## OSCE³ OffSec Resources
 
